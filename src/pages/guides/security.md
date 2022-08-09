@@ -1,5 +1,5 @@
 ---
-title: Security Suite
+title: Security Suite (This section should be before Managed Rule Groups)
 ---
 
 ## Overview {/*overview*/}
